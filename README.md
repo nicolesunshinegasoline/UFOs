@@ -24,6 +24,6 @@ The purpose of this project is to create a webpage containing a dynamic table to
 ### Recommendations
 - I would recommend adding a drop down of all available data points so that users can select and find what one is looking for.
 - Including coordinates data can also help a user search for sightings near an area rather than searching by specific city/state.
-- The final feature I would include is to include a view on all the filters that have been applied and the ability to add and remove filters as desired.
+- The final feature I would include is a view on all the filters that have been applied and the ability to add and remove filters as desired.
 
 
